@@ -1,1 +1,1 @@
-This is a test file created on the development PC.
+This is a test file created on the development PC to test Git Bash.
